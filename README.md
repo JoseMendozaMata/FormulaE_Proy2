@@ -9,4 +9,4 @@
 * Créditos del trabajo: Santiago Gamboa
 * Ruta de Git del autor: https://github.com/santigr17/FormulaE_CE_TEC-
 
-* Ruta del video ( documentación ):https://drive.google.com/drive/my-drive 
+* Ruta del video ( documentación ):https://drive.google.com/open?id=11zuefFVq9VQjde0tZQRvM0hE31rQTbGN
