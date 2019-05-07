@@ -9,8 +9,13 @@
  * 2019
  * 
  * Profesor: Jeff Schmidt
- * Autor: José Fabián Mendoza
+ * Autores: José Fabián Mendoza, Julián Carvajal
+ * Ruta de Git: https://github.com/JoseMendozaMata/FormulaE_Proy2
  * 
+ * Créditos del código .ino:
+ * Autor: Santiago Gamboa Ramírez
+ * Ruta de Git: https://github.com/santigr17/FormulaE_CE_TEC-
+ *
  * Restricciónes: Biblioteca ESP8266WiFi instalada
  */
 #include <ESP8266WiFi.h>
