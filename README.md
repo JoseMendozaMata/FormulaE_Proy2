@@ -2,9 +2,9 @@
 
 * Versión de Arduino: IDE Arduino 1.8.9 en windows
 
-* Ruta de github: https://github.com/JoseMendozaMata/FormulaE_Proy2
+* Ruta de github ( Puede ver la especificación del proyecto, los 3 códigos de Python y el .ino para subir al NodeMCU ): https://github.com/JoseMendozaMata/FormulaE_Proy2
 
-* Librería ESP8266 Instalada
+* Es necesario tener la librería ESP8266 instalada
 
 * Créditos del trabajo: Santiago Gamboa
-* Ruta de Git: https://github.com/santigr17/FormulaE_CE_TEC-
+* Ruta de Git del autor: https://github.com/santigr17/FormulaE_CE_TEC-
