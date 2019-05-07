@@ -8,8 +8,9 @@ Implementación del módulo NodeMCU
 Proyecto 2, semestre 1
 2019
 
-Profesor: Milton Villegas Lemus
-Autor: Santiago Gamboa RamÃ­rez
+Créditos: 
+Autor de la interfaz: Santiago Gamboa Ramírez
+Git: https://github.com/santigr17/FormulaE_CE_TEC-
 
 Restricciónes: Python3.7 
 Ejemplo de como usar el módudo NodeMCU de wifiConnection
