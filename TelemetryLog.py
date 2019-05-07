@@ -1,7 +1,7 @@
 """
-Instituto TecnolÃ³gico de Costa Rica
+Instituto Tecnológico de Costa Rica
 Computer Engineering
-Taller de ProgramaciÃ³n
+Taller de Programación
 
 Ejemplo Consola Cliente
 Implementación del módulo NodeMCU
