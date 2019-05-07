@@ -1,14 +1,15 @@
 """
-Instituto TecnolÃ³gico de Costa Rica
+Instituto Tecnológico de Costa Rica
 Computer Engineering
-Taller de ProgramaciÃ³n
+Taller de Programación
 
 Cliente python Formula E CE Tec
 Proyecto 2, semestre 1
 2019
 
-Profesor: Milton Villegas Lemus
-Autor: Santiago Gamboa RamÃ­rez
+Créditos: 
+Autor del cliente wifi: Santiago Gamboa Ramírez
+git: https://github.com/santigr17/FormulaE_CE_TEC-
 
 Restricciónes: Python3.7
 
