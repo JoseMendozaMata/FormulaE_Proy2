@@ -2,6 +2,6 @@
 
 * Versión de Arduino: IDE Arduino 1.8.9 en windows
 
-
 * Ruta de github: https://github.com/JoseMendozaMata/FormulaE_Proy2
-*** Librería ESP8266 Instalada
+
+* Librería ESP8266 Instalada
